@@ -1,0 +1,14 @@
+:root{
+  --Fmontserat : 'Montserrat', sans-serif;
+  --Fprata: 'Prata', serif;
+  --CMorado: #6278F7;
+  --CVerde: #95FFD4;
+  --CGris:#AFAFAF;
+
+
+}
+
+body {
+  margin: 0;
+  font-family: 'Prata', serif;
+}

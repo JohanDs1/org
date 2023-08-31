@@ -1,0 +1,32 @@
+.equipo{
+    width: 100%;
+    padding: 32px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 32px;
+    position: relative;
+}
+
+.equipo h3{
+    font-family: var(--Fprata);
+    font-weight: 400;
+    font-size: 32px;
+    color: #212121;
+    border-bottom: 4px solid /*pongo en equipo.js como BorderColor*/;
+    display: inline-block ;
+    padding-bottom: 8px;
+}
+.colaboladores{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.input-color{
+    position: absolute;
+    top: 20px;
+    right: 50px;
+}
+
+
+
+

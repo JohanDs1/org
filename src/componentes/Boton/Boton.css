@@ -1,0 +1,20 @@
+.boton{
+    background-color: #6278F7;
+    border-radius: 10px;
+    font-family: var(--Fmontserat);
+    font-weight: 700;
+    font-size: 20px;
+    color: #FFFFFF;
+    padding:24px 32px;
+    margin: 32px 0 ;
+    cursor: pointer;
+}
+ .boton:hover{
+    color: #95FFD4;
+
+ }
+
+
+
+
+
